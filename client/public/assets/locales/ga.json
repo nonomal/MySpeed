@@ -1,65 +1,65 @@
 {
-  "failed": "Failed",
+  "failed": "Theip air",
   "welcome": {
-    "step": "Step",
-    "title": "Welcome to MySpeed!",
-    "subtext": "Let's set up MySpeed for the first time. Don't worry, it won't take long.",
-    "provider_title": "Choose a provider",
-    "provider_subtext": "Select the provider you want to use here. This provider will then perform your tests.",
-    "data_title": "Set optimal data",
-    "data_subtext": "Select your contractually agreed speeds in this step",
-    "ms": "(in ms)",
-    "mbps": "(in Mbps)",
-    "accept_title": "Accept the terms",
-    "accept_subtext": "In this step, we would like to inform you about the Ookla license. Read it and confirm that you have read and accept it by clicking on “Done”."
+    "step": "Céim",
+    "title": "Fáilte go dtí MySpeed!",
+    "subtext": "Socraímis MySpeed ​​den chéad uair. Ná bíodh imní ort, ní thógfaidh sé i bhfad.",
+    "provider_title": "Roghnaigh soláthraí",
+    "provider_subtext": "Roghnaigh an soláthraí is mian leat a úsáid anseo. Déanfaidh an soláthraí seo do thástálacha ansin.",
+    "data_title": "Socraigh sonraí is fearr",
+    "data_subtext": "Roghnaigh do luasanna comhaontaithe conarthach sa chéim seo",
+    "ms": "(i ms)",
+    "mbps": "(i Mbps)",
+    "accept_title": "Glac leis na téarmaí",
+    "accept_subtext": "Sa chéim seo, ba mhaith linn tú a chur ar an eolas faoin gceadúnas Ookla. Léigh é agus deimhnigh gur léigh tú é agus go nglacann tú leis trí chliceáil ar “Críochnaithe”."
   },
   "dialog": {
-    "okay": "Okay",
-    "done": "Done",
-    "continue": "Continue",
-    "apply": "Yes, apply",
-    "update": "Update",
-    "close": "Close",
-    "unset": "Remove",
-    "retry": "Try again",
-    "login": "Login",
+    "okay": "Ceart go leor",
+    "done": "Déanta",
+    "continue": "Lean ar aghaidh",
+    "apply": "Sea, cuir isteach",
+    "update": "Nuashonrú",
+    "close": "Dún",
+    "unset": "Bain",
+    "retry": "Bain triail eile as",
+    "login": "Logáil Isteach",
     "password": {
-      "title": "Password required",
-      "placeholder": "Your password",
-      "wrong": "The password you entered is incorrect",
-      "unlock": "Unlock"
+      "title": "Pasfhocal ag teastáil",
+      "placeholder": "Do phasfhocal",
+      "wrong": "Tá an focal faire a chuir tú isteach mícheart",
+      "unlock": "Díghlasáil"
     },
     "api": {
-      "title": "API not reachable",
-      "description": "MySpeed could not reach the API of this instance. Please try again later."
+      "title": "Ní féidir teacht ar an API",
+      "description": "Níorbh fhéidir le MySpeed ​​teacht ar API an cháis seo. Déan iarracht arís ar ball."
     },
     "provider": {
-      "interface": "Interface",
-      "server": "Server",
-      "server_id": "Server ID",
-      "choose_automatically": "Choose automatically",
-      "ookla_license": "I have read and accept the <Eula>EULA</Eula>, <GDPR>privacy policy</GDPR> and <TOS>terms of service</TOS> of Ookla."
+      "interface": "Comhéadan",
+      "server": "Freastalaí",
+      "server_id": "ID an fhreastalaí",
+      "choose_automatically": "Roghnaigh go huathoibríoch",
+      "ookla_license": "Léigh mé agus glacaim le <Eula>EULA</Eula>, <GDPR>polasaí príobháideachta</GDPR> agus <TOS>téarmaí seirbhíse</TOS> Ookla."
     }
   },
   "dropdown": {
-    "settings": "Settings",
-    "changes_applied": "Your changes have been saved.",
-    "language_changed": "The language has been changed.",
-    "provider_changed": "The provider has been changed.",
-    "changes_unsaved": "Your changes were not applied. Check your input.",
-    "invalid": "Input invalid",
-    "ping": "Optimal ping",
-    "upload": "Optimal up-speed",
-    "download": "Optimal down-speed",
-    "recommendations": "Recommendations",
-    "change_provider": "Change provider",
-    "password": "Change password",
-    "cron": "Set frequency",
-    "time": "Set period",
-    "storage": "Manage storage",
-    "pause_tests": "Pause tests",
-    "resume_tests": "Resume tests",
-    "language": "Change language",
+    "settings": "Socruithe",
+    "changes_applied": "Tá do chuid athruithe sábháilte.",
+    "language_changed": "Tá an teanga athraithe.",
+    "provider_changed": "Tá an soláthraí athraithe.",
+    "changes_unsaved": "Níor cuireadh do chuid athruithe i bhfeidhm. Seiceáil do ionchur.",
+    "invalid": "Ionchur neamhbhailí",
+    "ping": "Ping is fearr",
+    "upload": "Luas suas is fearr",
+    "download": "Luas síos is fearr",
+    "recommendations": "Moltaí",
+    "change_provider": "Athraigh soláthraí",
+    "password": "Athraigh an focal faire",
+    "cron": "Socraigh minicíocht",
+    "time": "Socraigh tréimhse",
+    "storage": "Bainistigh stóráil",
+    "pause_tests": "Cuir tástálacha ar sos",
+    "resume_tests": "Atosú tástálacha",
+    "language": "Athraigh teanga",
     "light_mode": "Light mode",
     "dark_mode": "Dark mode",
     "theme_switched_light": "Switched to light mode",
@@ -123,73 +123,73 @@
     "running": "A speedtest is already running. Please wait a moment.",
     "admin_login": "Admin Login",
     "beta": {
-      "title": "Beta Version",
-      "description": "This feature is still in beta. If you find any bugs, please report them <Link>here</Link>."
+      "title": "Leagan Béite",
+      "description": "Tá an ghné seo fós i mbéite. Má aimsíonn tú aon fhabhtanna, cuir in iúl iad <Link>anseo</Link>."
     }
   },
   "storage": {
-    "speedtests": "Speedtests",
-    "configuration": "Configuration",
-    "stored_tests": "Stored tests",
-    "tests": "Tests",
-    "export_tests": "Export tests",
-    "tests_exported": "The tests have been exported",
+    "speedtests": "Tástálacha luais",
+    "configuration": "Cumraíocht",
+    "stored_tests": "Tástálacha stóráilte",
+    "tests": "Tástálacha",
+    "export_tests": "Tástálacha easpórtála",
+    "tests_exported": "Tá na tástálacha onnmhairithe",
     "csv": "CSV",
     "json": "JSON",
-    "import_tests": "Import tests",
-    "tests_imported": "The tests have been imported",
-    "import_test_error": "An error occurred while importing the tests",
-    "import_config_error": "An error occurred while importing the configuration",
-    "export": "Export",
-    "import": "Import",
-    "clear_history": "Clear history",
-    "history_cleared": "The history has been cleared",
-    "delete": "Delete",
-    "confirm_delete": "Yes, delete",
-    "export_settings": "Export settings",
-    "import_settings": "Import settings",
-    "factory_reset": "Factory reset",
-    "factory_reset_completed": "The factory reset has been completed",
-    "reset": "Reset",
-    "confirm_reset": "Yes, reset",
-    "settings_exported": "The settings have been exported",
-    "settings_imported": "The settings have been imported"
+    "import_tests": "Tástálacha allmhairithe",
+    "tests_imported": "Tá na tástálacha allmhairithe",
+    "import_test_error": "Tharla earráid agus na tástálacha á n-iompórtáil",
+    "import_config_error": "Tharla earráid agus an chumraíocht á hallmhairiú",
+    "export": "Easpórtáil",
+    "import": "Iompórtáil",
+    "clear_history": "Glan stair",
+    "history_cleared": "Tá an stair glanta",
+    "delete": "Scrios",
+    "confirm_delete": "Sea, scrios",
+    "export_settings": "Socruithe easpórtála",
+    "import_settings": "Socruithe allmhairithe",
+    "factory_reset": "Athshocrú monarchan",
+    "factory_reset_completed": "Tá an athshocrú monarchan críochnaithe",
+    "reset": "Athshocraigh",
+    "confirm_reset": "Sea, athshocraigh",
+    "settings_exported": "Tá na socruithe onnmhairithe",
+    "settings_imported": "Tá na socruithe allmhairithe"
   },
   "latest": {
     "ping": "Ping",
     "ping_unit": "ms",
-    "down": "Download",
+    "down": "Íoslódáil",
     "speed_unit": "Mbps",
-    "up": "Upload",
-    "latest": "Last test",
-    "before": "before"
+    "up": "Uaslódáil",
+    "latest": "Tástáil dheireanach",
+    "before": "roimhe"
   },
   "info": {
-    "credits": "<MSpeed>MySpeed</MSpeed> is a open source project provided by GNMYT. Leave a star on <Github>GitHub</Github> or <Donate>donate</Donate> to support the project.",
-    "recommendations_error": "You have to do at least 10 tests to get an average. It doesn't matter if the tests were done manually or automatically.",
-    "recommendations_info": "Based on the last 10 tests, it was found that the optimal ping was <Bold>{{ping}} ms</Bold>, the download at <Bold>{{down}} Mbps</Bold> and the upload at <Bold>{{up}} Mbps</Bold>. It is best to orientate yourself on your internet contract and only adopt it if it matches that.",
-    "update": "An update to version {{version}} is available. See <Changes>the changes</Changes> and <DLLink>download the update</DLLink>.",
+    "credits": "Is tionscadal foinse oscailte é <MSpeed>MySpeed</MSpeed> arna sholáthar ag GNMYT. Fág réalta ar <Github>GitHub</Github> nó <Donate>déan deontas</Donate> chun tacú leis an tionscadal.",
+    "recommendations_error": "Caithfidh tú 10 dtástáil ar a laghad a dhéanamh chun meán a fháil. Is cuma má rinneadh na tástálacha de láimh nó go huathoibríoch.",
+    "recommendations_info": "Bunaithe ar na 10 dtástáil dheireanacha, fuarthas amach gurbh é an ping is fearr ná <Bold>{{ping}} ms</Bold>, an íoslódáil ag <Bold>{{down}} Mbps</Bold> agus an uaslódáil ag <Bold>{{up}} Mbps</Bold>. Is fearr duit féin a threorú ar do chonradh idirlín agus gan glacadh leis ach amháin má chomhlíonann sé sin.",
+    "update": "Tá nuashonrú ar leagan {{version}} ar fáil. Féach <Changes>na hathruithe</Changes> agus <DLLink>íoslódáil an nuashonrú</DLLink>.",
     "down": {
-      "title": "Download speed",
-      "description": "Download speed affects your browsing experience. The more you get, the faster your computer can receive data."
+      "title": "Luas íoslódála",
+      "description": "Bíonn tionchar ag luas íoslódála ar do thaithí brabhsála. Dá mhéad a gheobhaidh tú, is ea is tapúla is féidir le do ríomhaire sonraí a fháil."
     },
     "ping": {
       "title": "Ping",
-      "description": "The ping shows you how fast the respective provider responds. The shorter the time, the better."
+      "description": "Léiríonn an ping duit cé chomh tapa agus a fhreagraíonn an soláthraí faoi seach. Dá giorra an t-am, is amhlaidh is fearr."
     },
     "up": {
-      "title": "Upload speed",
-      "description": "Upload speed affects your browsing experience. The more you get, the faster your computer can send data."
+      "title": "Luas uaslódála",
+      "description": "Bíonn tionchar ag luas uaslódála ar do thaithí brabhsála. Dá mhéad a gheobhaidh tú, is ea is tapúla is féidir le do ríomhaire sonraí a sheoladh."
     },
     "latest": {
-      "title": "Last test",
-      "description": "This is the time that shows you when the last test was run. In this case, the last one took place on <Bold>{{date}}</Bold> at <Bold>{{time}}</Bold>."
+      "title": "Tástáil dheireanach",
+      "description": "Seo an t-am a thaispeánann duit cathain a rinneadh an tástáil dheireanach. Sa chás seo, rinneadh an ceann deireanach ar <Bold>{{date}}</Bold> ag <Bold>{{time}}</Bold>."
     }
   },
   "time": {
-    "now": "Just now",
-    "seconds": "{{seconds}} seconds",
-    "minute": "1 minute",
+    "now": "Díreach anois",
+    "seconds": "{{seconds}} soicind",
+    "minute": "1 nóiméad",
     "minutes": "{{minutes}} minutes",
     "hour": "1 hour",
     "hours": "{{hours}} hours",
@@ -263,45 +263,45 @@
       "label": "Amount"
     },
     "values": {
-      "min": "Minimum",
-      "max": "Maximum",
-      "avg": "Average",
-      "down": "Download values",
-      "up": "Upload values"
+      "min": "Íosmhéid",
+      "max": "Uasmhéid",
+      "avg": "Meán",
+      "down": "Luachanna a íoslódáil",
+      "up": "Uaslódáil luachanna"
     }
   },
   "nodes": {
-    "add": "Add server",
-    "create": "Add",
-    "this_server": "This server",
-    "created": "The server has been successfully added",
-    "password_required": "This node requires a password",
-    "update_password": "Please update the password of this node",
-    "password_outdated": "Password outdated",
-    "password_updated": "The password has been successfully updated",
-    "preview_active": "Adding and deleting servers is disabled during demo mode.",
+    "add": "Cuir freastalaí leis",
+    "create": "Cuir leis",
+    "this_server": "An freastalaí seo",
+    "created": "Tá an freastalaí curtha leis go rathúil",
+    "password_required": "Éilíonn an nód seo pasfhocal",
+    "update_password": "Nuashonraigh pasfhocal an nóid seo le do thoil",
+    "password_outdated": "Pasfhocal atá as dáta",
+    "password_updated": "Tá an focal faire nuashonraithe go rathúil",
+    "preview_active": "Tá cur leis agus scriosadh freastalaithe díchumasaithe le linn mód taispeána.",
     "placeholder": {
-      "name": "MySpeed instance",
+      "name": "Ásc MySpeed",
       "url": "https://your-server.com"
     },
     "group": {
-      "name": "Server name",
-      "url": "Server address"
+      "name": "Ainm an fhreastalaí",
+      "url": "Seoladh an fhreastalaí"
     },
     "delete": {
-      "title": "Delete server",
-      "description": "The server <Bold>{{name}}</Bold> (#{{id}}) will be deleted. This action cannot be undone. Do you want to continue?",
-      "yes": "Yes, delete",
-      "success": "The server has been deleted successfully"
+      "title": "Scrios an freastalaí",
+      "description": "Scriosfar an freastalaí <Bold>{{name}}</Bold> (#{{id}}). Ní ​​féidir an gníomh seo a chealú. Ar mhaith leat leanúint ar aghaidh?",
+      "yes": "Sea, scrios",
+      "success": "Scriosadh an freastalaí go rathúil"
     },
     "messages": {
-      "not_reachable": "Server is not reachable",
-      "password_changed": "Password changed",
-      "tests_pending": "Test results pending"
+      "not_reachable": "Ní féidir teacht ar an bhfreastalaí",
+      "password_changed": "Pasfhocal athraithe",
+      "tests_pending": "Torthaí tástála ar feitheamh"
     }
   },
   "preview": {
-    "title": "Demo mode",
+    "title": "Mód taispeána",
     "info": "DEMO",
     "description": "You are currently in demo mode. Some features are disabled and some settings cannot be changed. If you want to use all features, you can <Link>install MySpeed</Link> on your own server."
   },
