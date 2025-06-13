@@ -60,68 +60,68 @@
     "pause_tests": "Cuir tástálacha ar sos",
     "resume_tests": "Atosú tástálacha",
     "language": "Athraigh teanga",
-    "light_mode": "Light mode",
-    "dark_mode": "Dark mode",
-    "theme_switched_light": "Switched to light mode",
-    "theme_switched_dark": "Switched to dark mode",
-    "info": "About the project",
-    "provider": "About the provider",
-    "integrations": "Integrations"
+    "light_mode": "Mód solais",
+    "dark_mode": "Mód dorcha",
+    "theme_switched_light": "Athraithe go mód solais",
+    "theme_switched_dark": "Athraithe go mód dorcha",
+    "info": "Maidir leis an tionscadal",
+    "provider": "Maidir leis an soláthraí",
+    "integrations": "Comhtháthúcháin"
   },
   "options": {
     "cron": {
-      "continuous": "Continuous (every minute)",
-      "frequent": "Very often (every 30 minutes)",
-      "default": "Default (every hour)",
-      "rare": "Rarely (every 3 hours)",
-      "really_rare": "Very rarely (every 6 hours)"
+      "continuous": "Leanúnach (gach nóiméad)",
+      "frequent": "Go minic (gach 30 nóiméad)",
+      "default": "Réamhshocrú (gach uair an chloig)",
+      "rare": "Go hannamh (gach 3 uair an chloig)",
+      "really_rare": "An-annamh (gach 6 uair an chloig)"
     },
     "level": {
-      "no_access": "No Access",
-      "read_access": "Read-only Access"
+      "no_access": "Gan Rochtain",
+      "read_access": "Rochtain Léite Amháin"
     }
   },
   "page": {
-    "overview": "Overview",
-    "statistics": "Statistics"
+    "overview": "Forbhreathnú",
+    "statistics": "Staitisticí"
   },
   "update": {
-    "ping_title": "Set optimal ping (ms)",
+    "ping_title": "Socraigh an ping is fearr (ms)",
     "ping_placeholder": "Ping (ms)",
-    "upload_title": "Set optimal up-speed (Mbps)",
-    "upload_placeholder": "Up speed (Mbps)",
-    "download_title": "Set optimal down-speed (Mbps)",
-    "download_placeholder": "Down speed (Mbps)",
-    "recommendations_title": "Optimal recommendations",
-    "recommendations_set": "Set automatic recommendations?",
-    "provider_title": "Set speedtest provider",
-    "manually": "Set manually",
-    "new_password": "Set a new password",
-    "password_placeholder": "New password",
-    "password_removed": "The password lock has been removed and the set password has been removed.",
-    "level": "Change level",
-    "level_title": "Rights for visitors",
-    "cron_title": "Set test frequency",
-    "cron_rules": "Cron rule",
-    "cron_next_test": "Next Test:",
-    "time_title": "Show tests of the last ...",
-    "download": "Download",
-    "pause_title": "Pause speedtests for...",
-    "hours": "Hours",
-    "pause": "Pause",
-    "release_manually": "Release manually",
-    "language": "Change language",
-    "view_title": "Switch view"
+    "upload_title": "Socraigh an luas suas is fearr (Mbps)",
+    "upload_placeholder": "Luas suas (Mbps)",
+    "download_title": "Socraigh an luas síos is fearr (Mbps)",
+    "download_placeholder": "Luas síos (Mbps)",
+    "recommendations_title": "Moltaí is fearr",
+    "recommendations_set": "Moltaí uathoibríocha a shocrú?",
+    "provider_title": "Socraigh soláthraí tástála luais",
+    "manually": "Socraigh de láimh",
+    "new_password": "Socraigh pasfhocal nua",
+    "password_placeholder": "Pasfhocal nua",
+    "password_removed": "Baineadh an glas pasfhocail agus baineadh an pasfhocal socraithe.",
+    "level": "Athraigh leibhéal",
+    "level_title": "Cearta do chuairteoirí",
+    "cron_title": "Socraigh minicíocht tástála",
+    "cron_rules": "Riail Cron",
+    "cron_next_test": "An chéad tástáil eile:",
+    "time_title": "Taispeáin tástálacha an ceann deireanach ...",
+    "download": "Íoslódáil",
+    "pause_title": "Cuir tástálacha luais ar sos le haghaidh...",
+    "hours": "Uaireanta",
+    "pause": "Sos",
+    "release_manually": "Scaoil de láimh",
+    "language": "Athraigh teanga",
+    "view_title": "Athraigh an radharc"
   },
   "header": {
     "title": "MySpeed",
-    "running_tooltip": "Speedtest running",
-    "start_tooltip": "Start speedtest",
-    "new_update": "Update available",
-    "download": "Download",
-    "paused": "Speedtests are currently paused. Please continue them if you want to do one.",
-    "running": "A speedtest is already running. Please wait a moment.",
-    "admin_login": "Admin Login",
+    "running_tooltip": "Tástáil Luas ag rith",
+    "start_tooltip": "Tosaigh an tástáil luais",
+    "new_update": "Nuashonrú ar fáil",
+    "download": "Íoslódáil",
+    "paused": "Tá tástálacha luais ar sos faoi láthair. Lean orthu más mian leat ceann a dhéanamh.",
+    "running": "Tá tástáil luais ar siúl cheana féin. Fan nóiméad le do thoil.",
+    "admin_login": "Logáil Isteach Riarthóra",
     "beta": {
       "title": "Leagan Béite",
       "description": "Tá an ghné seo fós i mbéite. Má aimsíonn tú aon fhabhtanna, cuir in iúl iad <Link>anseo</Link>."
@@ -190,77 +190,77 @@
     "now": "Díreach anois",
     "seconds": "{{seconds}} soicind",
     "minute": "1 nóiméad",
-    "minutes": "{{minutes}} minutes",
-    "hour": "1 hour",
-    "hours": "{{hours}} hours",
-    "on": "On",
-    "at": "At"
+    "minutes": "{{minutes}} nóiméad",
+    "hour": "1 uair an chloig",
+    "hours": "{{hours}} uaireanta",
+    "on": "Ar",
+    "at": "Ag"
   },
   "test": {
-    "not_available": "There are currently no tests available",
-    "no_latest": "There is no current test available. Please perform a test or wait until the next test is performed.",
-    "loading_more": "Loading more tests...",
-    "no_more_tests": "No more tests to load",
-    "unknown_error": "Unknown error:",
-    "failed": "Test failed",
-    "recheck": "Please check as far as possible if this happens often.",
-    "delete": "Delete Test",
-    "deleted": "The test has been deleted",
+    "not_available": "Níl aon tástálacha ar fáil faoi láthair",
+    "no_latest": "Níl aon tástáil reatha ar fáil. Déan tástáil nó fan go dtí go ndéanfar an chéad tástáil eile.",
+    "loading_more": "Ag lódáil tuilleadh tástálacha...",
+    "no_more_tests": "Níl aon tástálacha eile le luchtú",
+    "unknown_error": "Earráid anaithnid:",
+    "failed": "Theip ar an tástáil",
+    "recheck": "Seiceáil a mhéid is féidir leat an dtarlaíonn sé seo go minic.",
+    "delete": "Scrios Tástáil",
+    "deleted": "Scriosadh an tástáil",
     "average": {
-      "title": "Average Speed",
-      "description": "<Bold>{{amount}}</Bold> Tests have shown that on <Bold>{{date}}</Bold> an average download speed of <Bold>{{down}} Mbps </Bold> and an upload speed of <Bold>{{up}} Mbps</Bold> was passed. The tests took an average of <Bold>{{duration}} Seconds</Bold>."
+      "title": "Meánluas",
+      "description": "<Bold>{{amount}}</Bold> Léirigh tástálacha gur éirigh leis luas íoslódála meánach de <Bold>{{down}} Mbps </Bold> agus luas uaslódála de <Bold>{{up}} Mbps</Bold> a bhaint amach ar <Bold>{{date}}</Bold>. Thóg na tástálacha meán de <Bold>{{duration}} soicind</Bold>."
     },
     "result": {
-      "title": "Test result",
-      "description": "<Link>This test</Link> achieved a maximum download speed of <Bold>{{down}} Mbps</Bold> and a maximum upload speed of <Bold>{{up}} Mbps</Bold>. It was created <Bold>{{type}}</Bold> and took <Bold>{{duration}} Seconds</Bold>.",
-      "from_you": "by you",
-      "automatic": "automatically"
+      "title": "Toradh tástála",
+      "description": "<Link>Bhain an tástáil seo</Link> uasluas íoslódála amach de <Bold>{{down}} Mbps</Bold> agus uasluas uaslódála de <Bold>{{up}} Mbps</Bold>. Cruthaíodh í <Bold>{{type}}</Bold> agus mhair sí <Bold>{{duration}} soicind</Bold>.",
+      "from_you": "ag tú",
+      "automatic": "go huathoibríoch"
     },
     "overview": {
-      "title": "Test overview of the last {{amount}}",
-      "1": "24 hours",
-      "2": "2 days",
-      "3": "7 days",
-      "4": "30 days"
+      "title": "Forbhreathnú tástála ar an {{amount}} deireanach",
+      "1": "24 uair an chloig",
+      "2": "2 lá",
+      "3": "7 lá",
+      "4": "30 lá"
     }
   },
   "errors": {
-    "network_unreachable": "Internet connection was unstable during the time of the test",
-    "took_too_long": "The test took too long and was canceled",
-    "no_permission": "MySpeed has no permission to start this test",
-    "resource_unavailable": "The test could not be performed because the resource was temporarily unavailable",
-    "no_route": "The test could not be performed because there was no route to the host",
-    "connection_refused": "The test could not be performed because the connection was rejected",
-    "timed_out": "Internet connection was unstable during the time of the test",
-    "config": "The configuration file could not be loaded",
-    "invalid_view": "Invalid view"
+    "network_unreachable": "Bhí an nasc Idirlín éagobhsaí le linn na tástála",
+    "took_too_long": "Thóg an tástáil ró-fhada agus cuireadh ar ceal í",
+    "no_permission": "Níl cead ag MySpeed ​​an tástáil seo a thosú",
+    "resource_unavailable": "Níorbh fhéidir an tástáil a dhéanamh mar nach raibh an acmhainn ar fáil go sealadach",
+    "no_route": "Níorbh fhéidir an tástáil a dhéanamh mar nach raibh aon bhealach chuig an óstach ann",
+    "connection_refused": "Níorbh fhéidir an tástáil a dhéanamh mar gur diúltaíodh don nasc",
+    "timed_out": "Bhí an nasc Idirlín éagobhsaí le linn na tástála",
+    "config": "Níorbh fhéidir an comhad cumraíochta a luchtú",
+    "invalid_view": "Radharc neamhbhailí"
   },
   "statistics": {
     "overview": {
-      "total_title": "Total tests",
-      "total_description": "The number of executed tests",
-      "failed_title": "Failed tests",
-      "failed_description": "The number of failed tests",
-      "average_title": "Average duration",
-      "average_description": "The average duration of the tests"
+      "total_title": "Iomlán na dtástálacha",
+      "total_description": "Líon na dtástálacha a rinneadh",
+      "failed_title": "Tástálacha teipthe",
+      "failed_description": "Líon na dtástálacha nár éirigh leo",
+      "average_title": "Meánfhad",
+      "average_description": "Meánfhad na dtástálacha"
     },
     "failed": {
-      "title": "Failed tests",
-      "success": "Successful",
-      "failed": "Failed",
-      "label": "Tests"
+      "title": "Tástálacha teipthe",
+      "success": "Rathúil",
+      "failed": "Theip air",
+      "label": "Tástálacha"
     },
     "speed": {
-      "title": "Speed"
+      "title": "Luas"
     },
     "manual": {
-      "title": "Manual tests",
-      "yes": "Created manually",
-      "no": "Created automatically"
+      "title": "Tástálacha láimhe",
+      "yes": "Cruthaithe de láimh",
+      "no": "Cruthaithe go huathoibríoch"
     },
     "duration": {
-      "title": "Test duration",
-      "label": "Amount"
+      "title": "Fad na tástála",
+      "label": "Méid"
     },
     "values": {
       "min": "Íosmhéid",
@@ -303,94 +303,94 @@
   "preview": {
     "title": "Mód taispeána",
     "info": "DEMO",
-    "description": "You are currently in demo mode. Some features are disabled and some settings cannot be changed. If you want to use all features, you can <Link>install MySpeed</Link> on your own server."
+    "description": "Tá tú i mód taispeána faoi láthair. Tá roinnt gnéithe díchumasaithe agus ní féidir roinnt socruithe a athrú. Más mian leat gach gné a úsáid, is féidir leat <Link>MySpeed</Link> a shuiteáil ar do fhreastalaí féin."
   },
   "integrations": {
-    "none_active": "This integration is not active. <br/><Bold>Create</Bold>",
-    "preview_active": "Integrations are disabled during demo mode.",
-    "display_name": "Integration name",
-    "create": "Create",
+    "none_active": "Níl an comhtháthú seo gníomhach. <br/><Bold>Cruthaigh</Bold>",
+    "preview_active": "Tá comhtháthú díchumasaithe le linn mód taispeána.",
+    "display_name": "Tá comhtháthú díchumasaithe le linn mód taispeána",
+    "create": "Cruthaigh",
     "activity": {
-      "never_executed": "Never executed",
-      "last_run": "Last run before "
+      "never_executed": "Níor cuireadh chun báis riamh é",
+      "last_run": "An rith dheireanach roimhe seo "
     },
     "discord": {
       "title": "Discord",
       "fields": {
-        "url": "Webhook-URL",
+        "url": "URL-Crúca Gréasáin",
         "url_placeholder": "https://discord.com/api/webhooks/...",
-        "display_name": "Display name",
-        "display_name_placeholder": "MySpeed Notification",
-        "error_message": "Error message",
-        "error_message_placeholder": "Error: %error%",
-        "send_failed": "Send error messages",
-        "send_finished": "Send finished messages",
-        "finished_message": "Finished message",
+        "display_name": "Ainm taispeána",
+        "display_name_placeholder": "Fógra MySpeed",
+        "error_message": "Teachtaireacht earráide",
+        "error_message_placeholder": "Earráid: %error%",
+        "send_failed": "Seol teachtaireachtaí earráide",
+        "send_finished": "Seol teachtaireachtaí críochnaithe",
+        "finished_message": "Teachtaireacht críochnaithe",
         "finished_message_placeholder": "%ping% ms, %download% Mbps, %upload% Mbps"
       }
     },
     "gotify": {
       "title": "Gotify",
       "fields": {
-        "url": "Server-URL",
-        "key": "App token",
-        "priority": "Priority",
-        "error_message": "Error message",
-        "error_message_placeholder": "Error: %error%",
-        "send_failed": "Send error messages",
-        "send_finished": "Send finished messages",
-        "finished_message": "Finished message",
+        "url": "URL an fhreastalaí",
+        "key": "Comhartha aip",
+        "priority": "Tosaíocht",
+        "error_message": "Teachtaireacht earráide",
+        "error_message_placeholder": "Earráid: %error%",
+        "send_failed": "Seol teachtaireachtaí earráide",
+        "send_finished": "Seol teachtaireachtaí críochnaithe",
+        "finished_message": "Teachtaireacht críochnaithe",
         "finished_message_placeholder": "%ping% ms, %download% Mbps, %upload% Mbps"
       }
     },
     "pushover": {
-      "title": "Pushover",
+      "title": "Brúigh thar",
       "fields": {
-        "token": "App token",
-        "user_key": "User key",
-        "error_message": "Error message",
-        "error_message_placeholder": "Error: %error%",
-        "send_failed": "Send error messages",
-        "send_finished": "Send finished messages",
-        "finished_message": "Finished message",
+        "token": "Comhartha aip",
+        "user_key": "Eochair úsáideora",
+        "error_message": "Teachtaireacht earráide",
+        "error_message_placeholder": "Earráid: %error%",
+        "send_failed": "Seol teachtaireachtaí earráide",
+        "send_finished": "Seol teachtaireachtaí críochnaithe",
+        "finished_message": "Teachtaireacht críochnaithe",
         "finished_message_placeholder": "%ping% ms, %download% Mbps, %upload% Mbps"
       }
     },
     "healthChecks": {
-      "title": "HealthChecks",
+      "title": "Seiceálacha Sláinte",
       "fields": {
-        "url": "HealthChecks-URL",
+        "url": "URL Seiceálacha Sláinte",
         "url_placeholder": "https://hc-ping.com/<uuid>"
       }
     },
     "telegram": {
       "title": "Telegram",
       "fields": {
-        "token": "Bot Token",
-        "chat_id": "Chat ID",
-        "error_message": "Error message",
-        "error_message_placeholder": "Error: %error%",
-        "send_failed": "Send error messages",
-        "send_finished": "Send finished messages",
-        "finished_message": "Finished message",
+        "token": "Comhartha Bot",
+        "chat_id": "Aitheantas Comhrá",
+        "error_message": "Teachtaireacht earráide",
+        "error_message_placeholder": "Earráid: %error%",
+        "send_failed": "Seol teachtaireachtaí earráide",
+        "send_finished": "Seol teachtaireachtaí críochnaithe",
+        "finished_message": "Teachtaireacht críochnaithe",
         "finished_message_placeholder": "%ping% ms, %download% Mbps, %upload% Mbps"
       }
     },
     "webhook": {
-      "title": "Webhook",
+      "title": "Crúca Gréasáin",
       "fields": {
-        "url": "Webhook-URL",
+        "url": "URL-Crúca Gréasáin",
         "url_placeholder": "https://your-server.com/hook",
-        "send_started": "Send started",
-        "send_failed": "Send error messages",
-        "send_finished": "Send finished messages",
-        "send_alive": "Send Keep-Alive messages",
-        "send_recommendations": "Send recommendations",
-        "send_config_updates": "Send configuration updates"
+        "send_started": "Cuireadh tús leis an seoladh",
+        "send_failed": "Seol teachtaireachtaí earráide",
+        "send_finished": "Seol teachtaireachtaí críochnaithe",
+        "send_alive": "Seol teachtaireachtaí Coinnigh Beo",
+        "send_recommendations": "Seol moltaí",
+        "send_config_updates": "Seol nuashonruithe cumraíochta"
       }
     }
   },
   "common": {
-    "back_to_top": "Back to top"
+    "back_to_top": "Ar ais go barr"
   }
 }
